@@ -3,7 +3,7 @@ This project is a YouTube clone built with React at its core. It aims to replica
 ![Home page](./src/imgs/Screenshot%20from%202023-08-15%2016-55-19.png)
 
 ## 🔗 Live link
-[]()
+[https://abhi-youtube.netlify.app/](https://abhi-youtube.netlify.app/)
 
 ## 💻 Tech-Stack 
 
@@ -29,20 +29,20 @@ This project is a YouTube clone built with React at its core. It aims to replica
 To get started with the project, follow these steps:
 
 1. Clone the repository:
-### `git clone https://github.com/your-username/youtube-clone.git`
+    ### `git clone https://github.com/your-username/youtube-clone.git`
 
 2. Create .env file
-Create a .env file in the root directory of the project and add the following variables:
-### `REACT_APP_YOUTUBE_API_KEY=your_youtube_api_key`
+   Create a .env file in the root directory of the project and add the following variables:
+   ### `REACT_APP_YOUTUBE_API_KEY=your_youtube_api_key`
 
 3. Navigate to the Client Directory
-### `cd client`
+   ### `cd client`
 
 4. Install Dependencies
-### `npm install`
+   ### `npm install`
 
 5. Start the Application
-### `npm start`
+   ### `npm start`
 
 Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the video streaming platform.
 
